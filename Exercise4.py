@@ -6,8 +6,3 @@ if country == 'malaysia':
 		print ('You can driving')
 	else:
 		print ('You still cant driving')
-elif country == 'us':
-	if age >= 16:
-		print ('You can driving')
-	else:
-		print ('You still cant driving')
