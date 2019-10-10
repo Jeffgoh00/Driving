@@ -7,4 +7,4 @@ while True:
 	elif mode == '2':
 		print ('Start mode two')
 	else:
-		print ('Only can choose mode 1 or 2')
+		print ('Only can choose mode 1, 2 or q')
